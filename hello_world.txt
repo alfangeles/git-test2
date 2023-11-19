@@ -1,1 +1,3 @@
 some text to it
+
+This is a new entry to my hello world app
